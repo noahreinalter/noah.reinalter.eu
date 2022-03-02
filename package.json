@@ -1,0 +1,15 @@
+{
+  "name": "noah.reinalter.eu",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "init": "teeny init",
+    "build": "teeny build",
+    "develop": "teeny develop"
+  },
+  "author": "noahreinalter",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "teeny-cli": "github:noahreinalter/teeny"
+  }
+}
