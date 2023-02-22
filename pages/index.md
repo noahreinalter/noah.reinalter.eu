@@ -1,7 +1,9 @@
 ---
-template: homepage
-title: Teeny page
-author: teeny
+template: default
+title: Homepage
+author: noahreinalter
+url: https://noah.reinatler.eu
+
 ---
 
 # Hello World

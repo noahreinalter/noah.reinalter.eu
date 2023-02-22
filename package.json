@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "init": "teeny init",
+    "deploy": "teeny build && gh-pages -d public/",
     "build": "teeny build",
     "develop": "teeny develop"
   },
   "author": "noahreinalter",
   "license": "GPL-3.0",
-  "dependencies": {
-    "teeny-cli": "github:noahreinalter/teeny"
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "teeny-site": "^0.2.3"
   }
 }
