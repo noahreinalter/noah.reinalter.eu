@@ -1,9 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <html lang="en">
 
     <title>{{ title }}</title>
     <link rel="stylesheet" href="/assets/css/pico.min.css">
@@ -21,13 +21,20 @@
 </head>
 
 <body>
-    <nav>
+    <nav class="container">
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/minecraft">Minecraft Projects</a></li>
         </ul>
     </nav>
-    <div id="page-content"></div>
+
+    <main class="container" id="page-content">
+        <div id="page-content"></div>
+    </main>
+
+    <footer style="text-align: center;">
+        <small>Built with <b><a href="https://github.com/noahreinalter/teeny" target="_blank">Teeny-Site</a></b></small>
+    </footer>
 </body>
 
 </html>
