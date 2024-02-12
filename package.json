@@ -11,6 +11,6 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "teeny-site": "^0.3.0"
+    "teeny-site": "^0.3.3"
   }
 }
