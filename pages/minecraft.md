@@ -17,4 +17,5 @@ description: Overview of all Minecraft related projects
 
 ## Mods
 
-- [Use Server Name](/minecraft/useservername) - a mod for Minecraft 1.20-1.20.4 that changes the save location of server specific data to a folder named after the server's name.
+- [Use Server Name](/minecraft/useservername) - a mod for Minecraft 1.20-1.21 that changes the save location of server specific data to a folder named after the server's name.
+- [Clear Fix](/minecraft/clear-fix) - adds a conformation requirement to the clear command in Minecraft 1.20-1.21

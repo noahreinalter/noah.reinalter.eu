@@ -4,7 +4,7 @@ title: Use Server Name
 author: noahreinalter
 url: /minecraft/useservername
 published_time: 2024-02-12
-description: Use Server Name is a mod for Minecraft 1.20-1.20.4 that changes the save location of server specific data to a folder named after the server's name.
+description: Use Server Name is a mod for Minecraft 1.20-1.21 that changes the save location of server specific data to a folder named after the server's name.
 image_png: /assets/minecraft/useservername/useservername.png
 image_png_alt: Black text on a white background that reads "Server ID"
 image_png_height: 160
